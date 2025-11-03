@@ -25,7 +25,7 @@ A collection of sleek, modern, and customizable login page templates built with 
 
 ### 🌐 Live Demo
 
-Check out the templates live on [GitHub Pages](https://<username>.github.io/awesome-login-web/).
+Check out the templates live on [GitHub Pages](https://damartripamungkas.github.io/awesome-login-web/).
 
 ### 👤 Author
 
